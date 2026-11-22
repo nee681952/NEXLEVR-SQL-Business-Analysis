@@ -48,3 +48,36 @@ To develop SQL querying skills and understand how businesses use data to analyze
 
 ## Author
 Neeraj J.
+
+
+## Query Results
+
+### 1. Monthly Revenue Analysis
+![Monthly Revenue](Screenshots/Question1.png)
+
+### 2. Top 5 Customers by Spending
+![Top Customers](Screenshots/Question2.png)
+
+### 3. Top 5 Products by Revenue
+![Top Products](Screenshots/Question3.png)
+
+### 4. City-wise Revenue Analysis
+![City-wise Revenue](Screenshots/Question4.png)
+
+### 5. Total Orders per Customer
+![Customer Orders](Screenshots/Question5.png)
+
+### 6. Revenue by Product Category
+![Category Revenue](Screenshots/Question6.png)
+
+### 7. Customers Without Orders
+![Customers Without Orders](Screenshots/Question7.png)
+
+### 8. Average Order Value
+![Average Order Value](Screenshots/Question8.png)
+
+### 9. Inactive Customer Analysis
+![Inactive Customers](Screenshots/Question9.png)
+
+### 10. Monthly Order Status Analysis
+![Monthly Order Status](Screenshots/Question10.png)
