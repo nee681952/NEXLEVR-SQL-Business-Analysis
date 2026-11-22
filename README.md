@@ -77,7 +77,7 @@ Neeraj J.
 ![Average Order Value](Screenshots/Question8.png)
 
 ### 9. Inactive Customer Analysis
-![Inactive Customers](Screenshots/Question9.png)
+![Inactive Customers](Screenshots/Question10.png)
 
 ### 10. Monthly Order Status Analysis
-![Monthly Order Status](Screenshots/Question10.png)
+![Monthly Order Status](Screenshots/Question9.png)
